@@ -36,6 +36,36 @@ button {
     
 }
 
+.mtv-btn {
+    background-color: green;
+    color: black
+}
+
+.fnd-mvmnt {
+    background-color: green;
+    color: black
+}
+
+.lvl-u {
+    background-color: green;
+    color: black
+}
+
+.exrc-codit {
+    background-color: green;
+    color: black
+}
+
+.rs-rcvr {
+    background-color: green;
+    color: black;
+}
+
+.exrc-wt-us {
+    background-color: green;
+    color: black
+}
+
 div {
     background-color: beige;
     font-size: x-large;
