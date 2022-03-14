@@ -82,3 +82,11 @@ div {
     margin: 0;
     padding: 0
 }
+
+.sts-rps {
+    background-color: blanchedalmond;
+    font-size: medium;
+    text-align: center;
+    color: black;
+    border: solid 3px red;
+}
