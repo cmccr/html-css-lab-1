@@ -1,0 +1,45 @@
+h1 {
+    color: white;
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 0
+}
+
+h2 {
+    color: White;
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 0
+}
+
+h3 {
+    color: White;
+    font-size: x-large;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    padding: 0
+}
+
+body {
+    text-align: left;
+    font-size: large;
+}
+
+button {
+    background-color: red;
+    color: white
+    
+}
+
+div {
+    background-color: beige;
+    font-size: x-large;
+    text-align: center;
+    margin: 0;
+    padding: 0
+}
